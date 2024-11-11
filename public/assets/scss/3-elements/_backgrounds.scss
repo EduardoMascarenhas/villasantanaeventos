@@ -1,0 +1,81 @@
+/*=============================================
+=            backgrounds            =
+=============================================*/
+
+/* background images */
+
+.funfact-bg {
+  background-image: url("/assets/img/backgrounds/funfact-bg.jpg");
+}
+
+.testimonial-slider-area-bg {
+  background-image: url("/assets/img/backgrounds/testimonial.png");
+}
+
+.breadcrumb-bg {
+  background-image: url("/assets/img/backgrounds/bg-topo.png");
+}
+.breadcrumb-bg-criancas {
+  background-image: url("/assets/img/backgrounds/bg-topo-criancas.png");
+}
+.breadcrumb-bg-dormitorio {
+  background-image: url("/assets/img/backgrounds/bg-topo-dormitorio.png");
+}
+.breadcrumb-bg-restaurante {
+  background-image: url("/assets/img/backgrounds/bg-topo-restaurante.png");
+}
+.breadcrumb-bg-piscinas {
+  background-image: url("/assets/img/backgrounds/bg-topo-piscinas.png");
+}
+.breadcrumb-bg-auditorio {
+  background-image: url("/assets/img/backgrounds/bg-topo-auditorio.png");
+}
+.breadcrumb-bg-salao-jogos {
+  background-image: url("/assets/img/backgrounds/bg-topo-salao-jogos.png");
+}
+.breadcrumb-bg-area-externa {
+  background-image: url("/assets/img/backgrounds/bg-topo-area-externa.png");
+}
+.breadcrumb-bg-contato {
+  background-image: url("/assets/img/backgrounds/bg-topo-contato.png");
+}
+
+.white-bg {
+  background-color: #ffffff;
+}
+
+.wine-bg {
+  background-color: #68041e;
+}
+
+.grey-bg {
+  background-color: #fafafa;
+  &--style2 {
+    background-color: #fafafa;
+  }
+  &--style3 {
+    background-color: #fafafa;
+  }
+}
+
+.dark-bg {
+  background-color: #111;
+  &--style2 {
+    background-color: #11202d;
+  }
+  &--style3 {
+    background-color: $theme-color--black;
+  }
+  &--style4 {
+    background-color: #06112c;
+  }
+  &--style5 {
+    background-color: #05103b;
+  }
+}
+
+.default-bg {
+  background-color: $theme-color--default;
+}
+
+/*=====  End of backgrounds  ======*/
